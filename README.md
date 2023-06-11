@@ -29,13 +29,15 @@ Extruder is a component that is responsible for heating,melting and depositing t
 ## EXPLANATION:
 Material spool is the cylindrical holder or container that holds the filament used for printing. The filament, which is typically in the form of a long, thin thread, is wound around the spool.
 ### FILAMENT:
-![image](https://github.com/SubashiniSenniappan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119404951/6586753c-2ff1-4731-9ffb-a48124664cb0)
+![image](https://github.com/SubashiniSenniappan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119404951/4f417e34-cf96-470c-a6fd-279e308539ea)
 
 ### EXPLANATION :
 Filament is a long, thin strand of thermoplastic material that is fed into the 3D printer's extruder, melted, and deposited layer by layer to create a three-dimensional object.PLA (Polylactic Acid),ABS (Acrylonitrile Butadiene Styrene),PETG (Polyethylene Terephthalate Glycol) are some of the commonly used filament materials
 ### START PROCESS:
 
-![image](https://github.com/SubashiniSenniappan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119404951/ad6cac7c-e7ea-468e-aa08-efcd4fe03b94)
+![image](https://github.com/SubashiniSenniappan/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/119404951/906af90e-ff5a-402b-a10d-7a111ad3ad10)
+
+
 
 ### EXPLANATION :
 
